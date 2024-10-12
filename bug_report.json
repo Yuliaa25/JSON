@@ -1,8 +1,8 @@
 "Severity": "Minor"
-"Title": "The capital.com is opened with 404 error in the "Shiba Inu price prediction: Can the meme coin stop the slide?" article after tapping the "DOGE" hyperlink"
-"Precondition": STR: 1.The app is downloaded  2. The app is launched"
-"Steps": STR: 1. Tap "Articles" icon 2. Tap the "Shiba Inu price prediction: Can the meme coin stop the slide?" tile  3. Scroll down to the "DOGE" hyperlink 4. Tap the "DOGE" hyperlink"
+"Title": "The capital.com is opened with 404 error in the `Shiba Inu price prediction: Can the meme coin stop the slide?` article after tapping the `DOGE` hyperlink"
+"Precondition": "STR: 1.The app is downloaded  2. The app is launched"
+"Steps": "STR: 1. Tap `Articles` icon 2. Tap the `Shiba Inu price prediction: Can the meme coin stop the slide?` tile  3. Scroll down to the `DOGE` hyperlink 4. Tap the `Doge` hyperlink"
 "Actual Result": "The page capital.com with error 404 is opened"
 "Expected Result": "The capital.com is opened with corresponding information"
 "Link/Attach": "Screenshot"
-"Reproduced/ Not reproduced, nickname @TG, Enviroment": "@Yuliaa2505" (iphone XR IOS 17.7)
+"Reproduced/ Not reproduced, nickname @TG, Enviroment": `@Yuliaa2505` (iphone XR IOS 17.7)
